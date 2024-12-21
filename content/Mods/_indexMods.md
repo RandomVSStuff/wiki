@@ -1,3 +1,11 @@
+---
+title: Mods
+draft: false
+tags: 
+aliases:
+  - Mods
+---
+ 
 - [[Banners]]
 - [[Bark Beetle]]
 - [[Belt Craft]]
