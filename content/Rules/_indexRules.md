@@ -9,3 +9,4 @@ aliases:
 - [[Banditry & Raiding]]
 - [[General Rules]]
 - [[RP & Lore Guidelines]]
+- [[Building & Infrastructure]]
