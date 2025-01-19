@@ -1,1 +1,0 @@
-Roll the dough, roll it! Hold right click while looking at the bucket or barrel to make the dough.

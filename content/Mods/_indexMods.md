@@ -6,28 +6,51 @@ aliases:
   - Mods
 ---
  
-- [[Banners]]
-- [[Bark Beetle]]
-- [[Belt Craft]]
-- [[Butchering]]
-- [[ChiselTools]]
-- [[Configure Everything]]
-- [[Dana Tweaks]]
-- [[Dressmakers]]
-- [[Hand to Hand]]
-- [[Hanging Oil Lamps]]
-- [[Hardcore Water]]
-- [[Heat Retention]]
-- [[Human Like Skintones]]
-- [[Manual Dough]]
-- [[Manual Quenching]]
-- [[Manual Tool Crafting]]
-- [[Millwright]]
-- [[More Torch Holders]]
-- [[Pottery Wheel]]
-- [[Simple Cloth]]
-- [[Stone Quarry]]
-- [[Tailors Delight]]
-- [[Wear and Tear]]
-- [[Wildfarming Revival]]
-- [[Wool]]
+- A Culinary Artillery
+- Aged
+- Armory
+- Banners
+- Bedspawn
+- Bookbinders
+- Bulwark
+- Butchering
+- Canoe
+- Carry-On
+- Chisel Tools
+- Combat Overhaul
+- Configure Everything
+- Conquest Landform/Blocklayer
+- Crazy Skin Customization
+- Crocks on your elk
+- DiscordBot
+- Dressmakers
+- Expanded Matter
+- Expanded Foods
+- Farmland Drops Soil
+- From Golden Combs
+- Greenhouse buff(nerf)
+- Hand to Hand
+- Hanging Oil Lamps
+- Hardcore Water Transport
+- Heat Retention
+- Hide Player Name
+- Hide Player Pins
+- Mannequin Stand
+- Manual Dough
+- Manual Quenching
+- Millwright
+- More Torch Holders
+- Physical Map
+- Player Corpse
+- Plumb & Cube
+- Rivers
+- Sausages
+- Simple Cloth
+- Speed Boat
+- Stone Bake Oven
+- Stone Quarry
+- Tabletop Games
+- Tailors Delight
+- The Basics
+- Vanity
+- Wild Cabbage & Pumpkin

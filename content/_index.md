@@ -23,3 +23,6 @@ Once your settlement is ready to enter into its agrarian era, you will to check 
 The servers main interaction will be in game, although there is a discord server and forum thread, it is primarily for updates, or non-ingame interactions,  such as planning events, asking for help, or showing off builds. You can join the Discord [here]([https://discord.gg/QrGBeDWcfC](https://discord.gg/QrGBeDWcfC "https://discord.gg/QrGBeDWcfC")), or check out the forum post [here](https://www.vintagestory.at/forums/topic/13598-gauging-interest-in-a-homo-sapiens-civ-server/).
 
 For further information please check out the mod list, the guides, or the rules.
+
+[[World Config]]
+[[Server Info]]

@@ -1,1 +1,0 @@
-All configs are brought down to be inline to vanilla sails, the sails are for aesthetic, not for easy power.
