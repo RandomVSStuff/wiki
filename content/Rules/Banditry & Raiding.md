@@ -33,7 +33,8 @@ Raiding is something that can occur to cause tension, conflict, or just show who
 
 - The agreement must include a written statement from a simple majority of the relevant factions, where they agree to the terms and conditions.
 
-> This agreement must be written (or shared) in a public channel, and must include the 
+> This agreement must be written (or shared) in a public channel, and must include the statements.
+> 
 > During these Battles or wars, it is encouraged to invite people to help a side OOC if they are not already involved, that way the war can be more fun and engaging.
 
 
