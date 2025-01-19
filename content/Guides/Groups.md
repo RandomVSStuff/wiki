@@ -1,0 +1,1 @@
+For the time being, please refer to the ingame handbook for this, you can access the command handbook via .chb
