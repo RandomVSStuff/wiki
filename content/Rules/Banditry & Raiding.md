@@ -22,10 +22,10 @@ Raiding is something that can occur to cause tension, conflict, or just show who
 1) If you want to battle at a town, their must be a minimum of two members of the victims town online, and you can at most have twice as many people raiding, as people defending the town. 
 2) The attack must be announced 10 minutes prior over server chat.
 3) Those participating in these battles may not respawn and resume fighting, they are expected to either remain in their house, unarmed and without armor, or they can spectate, but they must remain unarmored and unarmed,
-4) The attackers may not respawn and pick up their loot, if the loose their loot during a battle, then that is a lose on their part.
-5) If wars do not follow these, there will be rollbacks, warnings, and possibly temp bans.
+4) The attackers may not respawn and pick up their loot, if the lose their loot during a battle, then that is a lose on their part.
+5) If wars do not follow these, e will be rollbacks, warnings, and possibly temp bans.
 6) During this battle, you can take up to 25% of the loot you see
-7) You can have these battles at most, once a week, but try not to do it to often, and town should not be targeted multiple times within a week.
+7) You can have these battles at most, once a week, but try not to dthero it to often, and town should not be targeted multiple times within a week.
 ## Mutually Agreed War/Battle
 - If both parties agree, OOC, to enter a conflict and begin a combat in a scheduled confrontation, all previously described rules are subject to being reconsidered or outright ignored, only in the instance that both parties agree.
 
